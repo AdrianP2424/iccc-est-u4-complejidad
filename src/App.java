@@ -9,15 +9,14 @@ public class App {
 
         //FOR NORMAL
         for (int i = 0 ; i < array.length; i++){
-            System.out.println(array[i]);
+            System.out.println(array[1]);
 
         //FOR EACH
-        for (int n : array){
-            System.out.println(n);
+        for (int i : array){
+            System.out.println(i);
         }
         
-
-            
+    
         }
     }
 }
